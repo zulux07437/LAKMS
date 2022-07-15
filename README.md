@@ -16,6 +16,6 @@ Click the "Get Info and Check Compatibility."<br>
 ![LAKMS-GetInfo](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-GetInfo.png)<br>
 
 If that is no problem, Click the "Activate !"<br>
-Attention: When you activate, The current activation status will be uninstalled.
-(The version used for the screenshot has a few bugs, so Unload the DLL is failing.)
+Attention: When you activate, The current activation status will be uninstalled.<br>
+(The version used for the screenshot has a few bugs, so Unload the DLL is failing.)<br>
 ![LAKMS-Activate](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-Activate.png)<br>
