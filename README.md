@@ -1,7 +1,7 @@
 # LAKMS
 A program of bypasses Windows Activation Product with the KMS.<br><br>
 
-This program is alpha version and very unstable. Please do not use the main computer or important computer.
+This program is alpha version and very unstable.
 
 ## What is this ?
 Activate Windows with using KMS Emulator locally.<br>
@@ -19,3 +19,8 @@ If that is no problem, Click the "Activate !"<br>
 Attention: When you activate, The current activation status will be uninstalled.<br>
 (The version used for the screenshot has a few bugs, so Unload the DLL is failing.)<br>
 ![LAKMS-Activate](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-Activate.png)<br>
+
+## Important
+This program is used for experimental purposes and has no illegal purpose.<br>
+When using this program, please use it at your own risk.<br>
+Do not use it on a regular computer or an important computer. Use it for debugging purposes.
