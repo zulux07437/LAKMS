@@ -23,4 +23,33 @@ Attention: When you activate, The current activation status will be uninstalled.
 ## Important
 This program is used for experimental purposes and has no illegal purpose.<br>
 When using this program, please use it at your own risk.<br>
-Do not use it on a regular computer or an important computer. Use it for debugging purposes.
+Do not use it on a regular computer or an important computer. Use it for debugging purposes.<br><br>
+
+
+
+
+
+# Japanese
+# LAKMS
+Windows ActivationをKMSによって回避するプログラム。
+
+## What is this ?
+KMSエミュレータを使用してローカルのWindowsをアクティベートするプログラムです。
+Windows 8、あるいはそれ以上では、KMS HostとしてLocalhostを使用することが出来ませんから、DLL Injection(SppExtComObjHook.dll)を使用してLocalhostを再現します。
+
+## How to use
+LAKMSを起動します。<br>
+![LAKMS-Start](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-Start.png)<br>
+
+"Get Info and Check Compatibility."をクリックします。<br>
+![LAKMS-GetInfo](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-GetInfo.png)<br>
+
+問題がなければ、"Activate !"をクリックします。<br>
+注意: Activateをすると、現在インストールされているライセンスはすべて削除されます。<br>
+(このスクリーンショットに使用したバージョンには、いくつかのバグが有るため、DLL Unloadに失敗します。)。<br>
+![LAKMS-Activate](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-Activate.png)<br>
+
+## Important
+このプログラムは実験目的で制作され、また違法な目的は御座いません。<br>
+このプログラムは、完全自己責任で御使用下さい。<br>
+このプログラムを常用するコンピュータあるいは重要なコンピュータで使用しないで下さい。このプログラムはデバッグ目的で使用して下さい。
