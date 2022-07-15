@@ -34,8 +34,9 @@ Do not use it on a regular computer or an important computer. Use it for debuggi
 Windows ActivationをKMSによって回避するプログラム。
 
 ## What is this ?
-KMSエミュレータを使用してローカルのWindowsをアクティベートするプログラムです。
-Windows 8、あるいはそれ以上では、KMS HostとしてLocalhostを使用することが出来ませんから、DLL Injection(SppExtComObjHook.dll)を使用してLocalhostを再現します。
+KMSエミュレータを使用してローカルのWindowsをアクティベートするプログラムです。<br>
+Windows 8、あるいはそれ以上では、KMS HostとしてLocalhostを使用することが出来ませんから、DLL Injection(SppExtComObjHook.dll)を使用してLocalhostを再現します。<br><br>
+KMS Emulatorのソースコードは私の物では無く、CODYQX4のMicrosoft Toolkitから派生しました。有難う御座いました。
 
 ## How to use
 LAKMSを起動します。<br>
