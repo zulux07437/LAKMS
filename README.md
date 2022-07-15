@@ -21,6 +21,14 @@ Attention: When you activate, The current activation status will be uninstalled.
 (The version used for the screenshot has a few bugs, so Unload the DLL is failing.)<br>
 ![LAKMS-Activate](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-Activate.png)<br>
 
+### Confirmed Versions
+Windows 10 Education Edition NT 10.0.19044<br>
+Windows 10 Pro Edition NT 10.0.19044<br>
+
+### Probably a working Versions (I'll check it in later)
+Windows 8.1
+WIndows 8
+
 ## Important
 This program is used for experimental purposes and has no illegal purpose.<br>
 When using this program, please use it at your own risk.<br>
