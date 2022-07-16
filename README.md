@@ -1,4 +1,3 @@
-The source code will be released later.
 # LAKMS
 A program of bypasses Windows Activation Product with the KMS.<br><br>
 
