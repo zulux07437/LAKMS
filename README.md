@@ -22,8 +22,9 @@ Attention: When you activate, The current activation status will be uninstalled.
 ![LAKMS-Activate](https://github.com/zulux07437/LAKMS/blob/main/LAKMS-Image/LAKMS-Activate.png)<br>
 
 #### Confirmed Versions
-Windows 10 Education Edition NT 10.0.19044<br>
-Windows 10 Pro Edition NT 10.0.19044
+[v1.0.0.0 Alpha]Windows 10 Education Edition NT 10.0.19044<br>
+[v1.0.0.0 Alpha]Windows 10 Pro Edition NT 10.0.19044
+[v1.0.0.0 Alpha]Windows 11 Pro Edition Insider Preview NT 10.0.25158.1000
 
 #### Probably a working Versions (I'll check it in later)
 Windows 8.1<br>
